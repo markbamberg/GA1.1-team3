@@ -1,0 +1,1 @@
+add.ipynb asks for two numbers, which need to be put in the function "add". It returns the sum of the two numbers.
